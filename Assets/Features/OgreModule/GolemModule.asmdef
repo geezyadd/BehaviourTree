@@ -1,0 +1,21 @@
+{
+    "name": "GolemModule",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cf48b1b5eabe0d34c9a72f162c0d700f",
+        "GUID:9ed5cef30e4a8064aadf64d89c959ea1",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:53c4ec62a27278d4b8bad22451f4c377",
+        "GUID:cf078c80f0d8c1d4d981f3e728f837a0",
+        "GUID:de594ae03626a0243b712e7ed2f03bc6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
